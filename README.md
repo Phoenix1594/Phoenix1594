@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phoenix1594
+- 👋 Hi, I’m Rohan Patil
 - 👀 I’m currently Searching Job in Data Science
 - 🌱 I’m having knowledge of Python | MySQL | Tableau
 - 📫 How to reach me - rohan.patil1594@gmail.com
