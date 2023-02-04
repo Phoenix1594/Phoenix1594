@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohan Patil
-- 👀 I’m currently Searching Job in Data Science
-- 🌱 I’m having knowledge of Python | MySQL | Tableau
+- 👀 I’m currently Searching Job as Full Stack Developer
+- 🌱 I’m having knowledge of Python | MySQL | Java | ReactJS | Springboot 
 - 📫 How to reach me - rohan.patil1594@gmail.com
 
 <!---
