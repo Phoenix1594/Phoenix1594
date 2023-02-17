@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohan Patil
 - 👀 I’m currently Searching Job as Full Stack Developer
-- 🌱 I’m having knowledge of Python | MySQL | Java | ReactJS | Springboot 
+- 🌱 I’m having knowledge of Python | MySQL | Java | ReactJS | Springboot | Bootstrap
 - 📫 How to reach me - rohan.patil1594@gmail.com
 
 <!---
